@@ -1,6 +1,6 @@
 {
   "latest_version": "2.0.46",
-  "package_url": "https://github.com/leonardobandini/SAP2000-MUG-updates/releases/download/v2.0.46/MUG2.0.46.zip",
+  "package_url": "https://github.com/leonardobandini/SAP2000-MUG-updates/releases/latest/download/MUG-latest.zip",
   "sha256": "6915d4a5dd1fcf5d053b0c7f8e05b7e06eec1a695785d413a038ee6832259cb9",
   "release_date": "2026-11-05",
   "message": "MUG 2 is proprietary freeware for Windows x64 and SAP2000 27 / CSiBridge 27. Save your models and close the CSI hosts before completing the new setup. The existing MUG 1 backup remains available; the MUG 2 ZIP contains binaries, not MUG 2 source code.",
