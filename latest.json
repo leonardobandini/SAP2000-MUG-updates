@@ -1,12 +1,12 @@
 {
-    "latest_version":  "2.0.48",
-    "package_url":  "https://github.com/leonardobandini/SAP2000-MUG-updates/releases/download/v2.0.48/MUG2.0.48.zip",
-    "sha256":  "04c21c8291b89f6071bf583ee10e6dc7fd7eb9c3e4c4593b2935f75dab476d64",
-    "release_date":  "2026-11-19",
-    "message":  "MUG 2 is proprietary freeware for Windows x64 and SAP2000 27 / CSiBridge 27. Save models and close CSI hosts before setup.",
-    "changelog":  [
-                      "Fix update check TLS compatibility.",
-                      "Improved case selection and waiting window.",
-                      "Signed expiration and clock recovery."
-                  ]
+  "latest_version": "2.0.49",
+  "package_url": "https://github.com/leonardobandini/SAP2000-MUG-updates/releases/download/v2.0.49/MUG2.0.49.zip",
+  "sha256": "15a6c9233f65fe311a9032afb0af5fa42abeb9761b149ef0687f4cc1fafe88aa",
+  "release_date": "2026-11-19",
+  "message": "MUG 2.0.49 disponibile: corretti gli spostamenti dei nodi con assi locali ruotati. Estrarre il pacchetto, salvare i modelli, chiudere SAP2000 e CSiBridge ed eseguire MUG2Setup.exe.",
+  "changelog": [
+    "Conversione completa degli spostamenti nodali dagli assi locali agli assi globali, anche con rotazioni tridimensionali e assi avanzati.",
+    "Corretti i bordi a denti nelle deformate e nelle forme di instabilita dei nodi con assi ruotati.",
+    "Grafica, valori nodali, combinazioni, esportazione Excel e trasferimento della geometria utilizzano gli stessi vettori globali corretti."
+  ]
 }
