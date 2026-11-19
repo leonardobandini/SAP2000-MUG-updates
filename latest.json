@@ -1,12 +1,12 @@
 {
-  "latest_version": "2.0.46",
-  "package_url": "https://github.com/leonardobandini/SAP2000-MUG-updates/releases/latest/download/MUG-latest.zip",
-  "sha256": "6915d4a5dd1fcf5d053b0c7f8e05b7e06eec1a695785d413a038ee6832259cb9",
-  "release_date": "2026-11-05",
-  "message": "MUG 2 is proprietary freeware for Windows x64 and SAP2000 27 / CSiBridge 27. Save your models and close the CSI hosts before completing the new setup. The existing MUG 1 backup remains available; the MUG 2 ZIP contains binaries, not MUG 2 source code.",
-  "changelog": [
-    "New viewer with selectable analysis cases, combined imperfections and verified geometry-copy reports.",
-    "Standalone SAP2000 launcher, bilingual guide and manual installation via MUG2Setup.exe.",
-    "Requires .NET Framework 4.8 and WebView2 Evergreen. Earlier MUG 1 GPL rights remain unchanged."
-  ]
+    "latest_version":  "2.0.48",
+    "package_url":  "https://github.com/leonardobandini/SAP2000-MUG-updates/releases/download/v2.0.48/MUG2.0.48.zip",
+    "sha256":  "04c21c8291b89f6071bf583ee10e6dc7fd7eb9c3e4c4593b2935f75dab476d64",
+    "release_date":  "2026-11-19",
+    "message":  "MUG 2 is proprietary freeware for Windows x64 and SAP2000 27 / CSiBridge 27. Save models and close CSI hosts before setup.",
+    "changelog":  [
+                      "Fix update check TLS compatibility.",
+                      "Improved case selection and waiting window.",
+                      "Signed expiration and clock recovery."
+                  ]
 }
